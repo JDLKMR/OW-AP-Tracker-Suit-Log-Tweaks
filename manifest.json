@@ -1,8 +1,8 @@
 {
-  "filename": "APTrackerRemember.dll",
+  "filename": "APTrackerSuitLogTweaks.dll",
   "author": "JD",
-  "name": "Remember AP Tracker Position",
-  "uniqueName": "JD.APTrackerRememberPosition",
-  "version": "1.0.0",
+  "name": "AP Tracker/Suit Log Tweaks",
+  "uniqueName": "JD.APTrackerSuitLogTweaks",
+  "version": "1.1.0",
   "owmlVersion": "2.9.8"
 }
