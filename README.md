@@ -4,7 +4,7 @@ An Outer Wilds mod meant to be installed alongside Ixrec's Outer Wilds Archipela
 If one or both of the two mods that this mod affects is uninstalled, then it just ignores those features.
 
 ## Archipelago Randomizer Changes
-- AP Tracker remembers your place when backing out of an entry (applies to both the Ship Log and Suit Log). Backing out of a category returns you to that category instead of the top of the list.
+- The AP Tracker remembers your place when backing out of an entry (applies to both the Ship Log and Suit Log). Backing out of a category returns you to that category instead of the top of the list.
 
 ## Suit Log Changes
 - Lists such as the AP Tracker remember your place after exiting them and then opening the Suit Log again.
